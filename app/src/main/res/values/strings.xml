@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Presenca App</string>
+    <string name="presentes">Presentes</string>
+    <string name="todos">Todos</string>
+    <string name="ausentes">Ausentes</string>
+    <string name="ferramentas">Ferramentas</string>
+    <string name="sair">Sair</string>
+    <string name="geral">Geral</string>
+    <string name="add_person">Add person</string>
 </resources>

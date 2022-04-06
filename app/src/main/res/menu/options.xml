@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/geral">
+            <menu>
+                <item android:title="@string/todos"
+                    android:icon="@drawable/ic_all"/>
+                <item android:title="@string/presentes"
+                    android:icon="@drawable/ic_less"/>
+                <item android:title="@string/ausentes"
+                    android:icon="@drawable/ic_more"/>
+            </menu>
+    </item>
+    <item android:title="@string/ferramentas">
+        <menu>
+            <item android:title="@string/sair"
+                android:icon="@drawable/ic_exit"/>
+        </menu>
+    </item>
+</menu>
